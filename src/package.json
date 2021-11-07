@@ -1,0 +1,21 @@
+{
+  "name": "video-request",
+  "version": "1.0.0",
+  "description": "Simple Node.js/Express app (with EJS frontend) that integrates with Google Sheets to read/update data. This application demos the functionality with a simple \"Video Request\" app that uses a form to add a new row to a Google Sheet.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "googleapis": "^67.1.1",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "keywords": []
+}

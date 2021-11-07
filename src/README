@@ -1,0 +1,20 @@
+
+
+
+-----------------instalar las dependencias necesarias------------
+
+
+------------------
+
+npm init -y        ---------------------- INIT PARA CREAR PACKAGE.JSON
+npm install express ----------------------PARA EL SERVIDOR LOCAL
+npm install - D nodemon ----------------- PARA MANETENER EL SERVIDOR ENCENDIDO 
+npm install googleapi   ----------------- API
+
+-------------------------------------------------------
+
+LA H0JA DE CALCULO ESTA EN GOOGLE DRIVE Y TIENE SU RESPECTIVA CONEXION PARA SER MODIFICADA
+
+
+https://docs.google.com/spreadsheets/d/1euJjroC0wV_MyW4aPq31KNzC9jSrn2pQUqGyg2FlnRQ/edit?usp=sharing
+
